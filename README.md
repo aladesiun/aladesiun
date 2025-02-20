@@ -7,7 +7,6 @@
 -vue.js
 -php
 -laravel
-- 🌱 I’m working on anonymous.kaffir.ng
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/Temitopeluke
 
