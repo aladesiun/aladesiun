@@ -1,12 +1,5 @@
 - 👋 Hi, I’m aladesiun Temitope 
-- 👀 I’m a full stack developer 
--html
--css
--Javascript 
--jquery
--vue.js
--php
--laravel
+- 👀 I’m a full stack software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/Temitopeluke
 
